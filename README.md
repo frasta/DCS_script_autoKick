@@ -10,6 +10,9 @@ Script to kick a player who is doing teamshooting or teamkilling.
 - A CSV file is saving the history of all the kicks!
 - A temporary file is deleted at each mission start to avoid performance issue
 
+<ins>What I ask in exchange?</ins>
+Mention a small credit to me in your server/mission :) 
+
 <ins>How to install it?</ins>
 - shutdown your server
 - download the file
